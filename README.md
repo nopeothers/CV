@@ -58,3 +58,6 @@ analysis.sql
 python3 filter.py input.json filtered.json
 2. Классификация угроз
 python3 classifier.py filtered.json results.json
+
+Второй - это решенный кейс Т-Услуг
+Третий и последующие проекты находятся в директории Projects
